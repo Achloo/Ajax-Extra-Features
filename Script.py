@@ -4,14 +4,16 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾</b>
-<b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/OpusTechz>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/MWUpdatez>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a></b>
+<b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/buddingtechy>Budding Techy</a></b>
+<b>✮ DISCUSSION: <a href=https://t.me/mallubotzofficial>Mallu Botz</a></b>
+<b>✮ UPDATES: <a href=https://t.me/mallurockzofficial>Mallu Rockz</a></b>
+<b>✮ OTHER BOTS: <a href=https://t.me/mallurockzofficial/3>CHECK IT</a></b>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>"""
+<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCYmBtjtt94XAalZkmFZrYcw</a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -23,7 +25,7 @@ class script(object):
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Aadhi011><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━
+━━━━━━━━━━━━᚜ <a href=https://t.me/buddingtechy><b>Budding Techy</b></a> ᚛━━━━━━━━━━━━
 
 ›› <b>𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b>
 
@@ -34,7 +36,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Aadhi011><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/buddingtechy><b>Budding Techy</b></a> ᚛━━━━━━━━━━━━"""
     PROMOTION_TXT = """<b>〄 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 〄</b>
 
 ⪼ <b>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐖𝐡𝐢𝐜𝐡 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 . 
@@ -44,7 +46,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Aadhi011><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━""" 
+━━━━━━━━━━━━᚜ <a href=https://t.me/buddingtechy><b>Budding Techy</b></a> ᚛━━━━━━━━━━━━""" 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
 <b>By Using This Module You can store files in My database and I will You A Permanent link To access The saved Files.If You want to add files from a Public channel send the file link only or You want to store files from a Private channel you must make me admin on their to access files files.../</b>
@@ -57,9 +59,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/MWUpdatez/3 https://t.me/MWUpdatez/8</code>
+<code>/batch https://t.me/mallurockzofficial/3 https://t.me/mallurockzofficial/8</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› https://t.me/buddingtechy><b>Budding Techy</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -78,15 +80,15 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 
 <b>Share and Subscribe</b>
 
-Credits ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+Credits ›› <a https://t.me/buddingtechy><b>Budding Techy</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᗩᒍᗩ᙭ should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+1. BOT should have admin privillage.
+2. Only admins can add filters in a chat.
+3. Alert buttons have a limit of 64 characters.
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
@@ -104,7 +106,7 @@ Song Download Module, For Those Who Love Music
 - Can Be Used By Everyone
 - Works in bot pm
 
-Made By <a href=https://t.me/MWUpdatez>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a>"""
+Made By <a href=https://t.me/buddingtechy><b>Budding Techy</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 
@@ -190,15 +192,15 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--ᗩᒍᗩ᙭  Supports both url and alert inline buttons.
+BOT Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
+2. Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MWUpdatez)</code>
+<code>[Button Text](buttonurl:https://t.me/buddingtechy)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -225,7 +227,7 @@ Delete A Lot Of Messages From Groups!
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ᗩᒍᗩ᙭ 
+These are the extra features of this bot 
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
@@ -293,7 +295,7 @@ This module only works for my admins
 ➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
 
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://youtu.be/kB9TkCs8cX0</code>"""
+<code>/short https://youtu.be/TaXTjQLzKpw</code>"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 
@@ -301,10 +303,10 @@ This module only works for my admins
 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/kB9TkCs8cX0)
+• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/TaXTjQLzKpw)
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/mp4 https://youtu.be/kB9TkCs8cX0</code>
-<code>/video https://youtu.be/kB9TkCs8cX0</code>"""
+<code>/mp4 https://youtu.be/TaXTjQLzKpw</code>
+<code>/video https://youtu.be/TaXTjQLzKpw</code>"""
 
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
 
@@ -325,7 +327,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/MWUpdatez>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/buddingtechy>Budding Techy</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
@@ -341,7 +343,7 @@ To Get Sticker ID
 𝘛𝘺𝘱𝘦 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬
 
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
-<code>/ytthumb https://youtu.be/UyzJ9KEoU0w</code>"""
+<code>/ytthumb https://youtu.be/TaXTjQLzKpw</code>"""
 
     ABOOK_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
 
@@ -394,11 +396,11 @@ To Get Sticker ID
       
     START_KICK = """🚮 Removing Inactive Members This May Take A While..."""
       
-    ADMIN_REQUIRED = """❗<b>എന്നെ Admin ആക്കത്ത സ്ഥലത്ത് ഞാൻ നിക്കില്ല പോകുവാ Bii..Add Me Again with all admin rights.</b>"""
+    ADMIN_REQUIRED = """❗<b>എന്നെ Admin ആക്കത്ത സ്ഥലത്ത് ഞാൻ നിക്കില്ല🥺 പോകുവ Bii..Add Me Again with all admin rights.</b>"""
       
     DKICK = """✔️ Kicked {} Deleted Accounts Successfully."""
       
-    FETCHING_INFO = """<b>ഇപ്പൊ എല്ലാം അടിച്ചുമാറ്റി തരാം...</b>"""
+    FETCHING_INFO = """<b>ഇപ്പൊ എല്ലാം അടിച്ചുമാറ്റി തരാം😈...</b>"""
       
     STATUS = """{}\n<b>Chat Member Status</b>**\n\n```<i>Recently``` - {}\n```Within Week``` - {}\n```Within Month``` - {}\n```Long Time Ago``` - {}\nDeleted Account - {}\nBot - {}\nUnCached - {}</i>
 """
